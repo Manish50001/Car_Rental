@@ -1,0 +1,34 @@
+.child {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    min-height: 50vh;
+   background-color: white;
+  }
+  
+  .dashboard-filter {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+  }
+  
+  .filter-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+  }
+  
+  .filter-select-dropdown {
+    margin-left: 50px;
+  }
+  
+  .filterbtn{
+
+    margin-left: 65px;
+
+  }
+  /* Adjust other styles as needed */
+  

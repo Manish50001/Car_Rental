@@ -1,0 +1,30 @@
+/* Base styles for the table (optional) */
+.ant-table {
+    border: 1px solid #ddd; /* Add a border to the table */
+  }
+  
+  .ant-table th {
+    /* Customize header cells (optional) */
+    font-weight: bold;
+    padding: 8px 16px;
+    background-color: #f2f2f2;
+  }
+  
+  .ant-table td {
+    /* Customize body cells (optional) */
+    padding: 8px 16px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Status color classes */
+  .green {
+    color: green;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  .red {
+    color: red;
+  }
